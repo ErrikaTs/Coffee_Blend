@@ -109,7 +109,6 @@ p {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 .btn:hover {
-  /* color: var(--clr-primary-3); */
   color: var(--clr-secondary);
   background: var(--clr-primary-light);
 }
@@ -130,7 +129,6 @@ p {
 }
 .section-center {
   padding: 4rem 0;
-  /* border: 2px solid red; */
   width: 85%;
   margin: 0 auto;
   max-width: 1170px;
@@ -226,8 +224,6 @@ nav h4 {
   position: fixed;
   top: 0;
   left: 0;
-  /* right: 0;
-  bottom: 0; */
   width: 40%;
   height: 40%;
   background: var(--clr-primary-light);
@@ -240,8 +236,6 @@ nav h4 {
 }
 .nav-img {
   width: 50%;
-  /* padding-top: 2rem;
-  padding-left: 2rem; */
   margin: 1.2rem auto;
   border: 1px solid var(--clr-secondary);
 }
@@ -262,7 +256,6 @@ nav h4 {
 }
 .nav-close:hover {
   color: var(--clr-secondary);
-  /* transform: scale(1.1rem); */
 }
 
 .nav-items {
@@ -293,7 +286,6 @@ nav h4 {
 /* header */
 .header {
   min-height: 100vh;
-  /* background: var(--clr-primary-3); */
   background: linear-gradient(rgba(45, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
     url('../images/main.jpg') center/cover no-repeat fixed;
   position: relative;
@@ -328,8 +320,6 @@ span {
   outline-offset: 0.25rem;
   font-size: 1.25rem;
   padding: 1rem 1.75rem;
-  /* margin-top: 2rem; */
-  /* background: var(--clr-primary-3); */
   animation: show 5s ease-out 1;
 }
 /* content divider */
@@ -372,7 +362,6 @@ span {
   box-shadow: 0 2px var(--clr-primary);
 }
 .skill:hover .skill-icon {
-  /* transform: scale(1.2); */
   transform: translateY(-5px);
   color: var(--clr-secondary);
 }
@@ -532,7 +521,6 @@ span {
   padding: 0.4rem 0.7rem;
   text-transform: capitalize;
   border-radius: var(--radius);
-  /* font-weight: 300; */
   margin-top: 1.25rem;
 }
 .service-info p {
@@ -618,7 +606,6 @@ span {
 .submit-btn {
   display: block;
   background: var(--clr-primary-light);
-  /* background: #c46e31; */
   width: 100%;
   padding: 1rem;
   border-bottom-right-radius: var(--radius);
@@ -640,8 +627,7 @@ span {
   }
 }
 
-/* footer
- */
+/* footer*/
 .footer {
   background: var(--clr-primary);
   text-align: center;
@@ -662,7 +648,6 @@ span {
   margin-top: 1.2rem;
 }
 .company {
-  /* color: var(--clr-secondary); */
   letter-spacing: var(--spacing);
   text-transform: uppercase;
 }
