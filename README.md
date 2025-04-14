@@ -6,7 +6,7 @@ flexible and responsive design that adapts to different screen sizes.
 This project serves as a solid foundation for learning the essentials
 of frontend development, emphasizing clean code practices and
 user interface design.
-![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot(1).png)
-![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot(2).png)
-![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot(3).png)
-![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot(4).png)
+![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot1.png)
+![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot2.png)
+![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot3.png)
+![Coffee Blend Screenshot](Screenshots\CoffeeBlendScreenshot4.png)
